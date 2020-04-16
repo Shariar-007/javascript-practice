@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/A/admin-dashboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Agent-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Agent-App/agent-app-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CMED-CORE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Totthoapa-Web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/helpage-dashboard-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myproject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ngrx-shooping-list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pksf-frontend-new" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rxjs-angular-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rxjsangularapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/santusti-angular-frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/santusti-mycreation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sontusti-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/xaxs/sontusti-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zsas/pksf-frontend-new" vcs="Git" />
+  </component>
+</project>
