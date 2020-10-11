@@ -1,0 +1,1 @@
+In First app, we have an button and clicking on it, number is increased by one.

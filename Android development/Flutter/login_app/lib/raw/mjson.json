@@ -1,0 +1,26 @@
+{
+  "payment_reports": {
+    "content": [
+      {
+        "address": "",
+        "appointmentId": "",
+        "assignedAgentId": "",
+        "collectionDate": 1600515995000,
+        "collectionPointName": "Uttarkhan General Hospital COVID19 booth",
+        "district": "BRAHMANBARIA",
+        "division": "CHATTOGRAM",
+        "firstName": "Joshim",
+        "gateway": "CASH",
+        "generatedId": "",
+        "lastName": "",
+        "nid": "",
+        "passport": "",
+        "paymentStatus": "FR",
+        "phone": "01617452136",
+        "tnxCode": "CASH-FA20E6BB",
+        "upazila": "KASBA",
+        "userId": 3097027
+      }
+    ]
+  }
+}

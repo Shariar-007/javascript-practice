@@ -1,0 +1,41 @@
+{
+  "payment_reports": {
+    "content": [
+      {
+        "resultUpdate": false,
+        "collection_point_name_en": "Sylhet SadarUpazila Health Office,Sylhet",
+        "collection_point_name_bn": "Sylhet SadarUpazila Health Office,Sylhet",
+        "passport_number": null,
+        "nid_number": null,
+        "lab_en": "Anwar Khan Modern Medical College Hospital",
+        "lab_bn": "Anwar Khan Modern Medical College Hospital",
+        "lab_id": 2562,
+        "user_full_name": "Kabil",
+        "user_phone": "+8801678764677",
+        "division_name_en": "Sylhet",
+        "division_name_bn": "সিলেট",
+        "district_name_en": "SYLHET",
+        "district_name_bn": "সিলেট",
+        "upazila_name_en": "SYLHET SADAR",
+        "upazila_name_bn": "সিলেট সদর",
+        "collection_date": 1599645428000,
+        "specimen_id": 214,
+        "sample_id": "0000_0920_G7Y5",
+        "test_date": 1599994888000,
+        "is_result_update": false,
+        "result_id": 1,
+        "result_db_id": 66,
+        "result_en": "Positive",
+        "result_bn": "পজিটিভ",
+        "user_id": 1811766,
+        "user_address_id": null,
+        "user_address": null,
+        "gender": 2,
+        "gender_name_en": "Female",
+        "gender_name_bn": "মহিলা",
+        "birth_date": 905277600000,
+        "relation_with_household_head": 5
+      }
+    ]
+  }
+}
