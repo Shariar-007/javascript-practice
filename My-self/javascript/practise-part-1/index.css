@@ -1,0 +1,32 @@
+body {
+    margin: 15px 0 0 0;
+    padding: 0%;
+    text-align: center;
+}
+
+.img-fluid {
+    width: 200px;
+}
+
+.shoe-name {
+    margin-top: 15px;
+    color: black;
+    font-weight: 600;
+}
+
+.btn {
+    color: black;
+    border-radius: 18px;
+    border: 1px solid black;
+    font-weight: 600;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
+}
+
+#error {
+    color: brown;
+    font-size: 1.2rem;
+    margin-top: 15px;
+}

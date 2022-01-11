@@ -21,3 +21,18 @@ h2 {
     margin-top: 15px;
     color: #fff;
 }
+
+.btn-danger {
+    width: 150px;
+}
+
+.btn-success {
+    margin-top: 15px;
+    width: 150px;
+}
+
+p {
+    color: #fff;
+    font-size: 2rem;
+    margin-top: 15px;
+}
